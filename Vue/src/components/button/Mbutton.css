@@ -1,0 +1,103 @@
+.Primary_Btn{
+    width: 170px;
+    height: 44px;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 5px;
+    font-size: var(--primary-font-size);
+    font-weight: 500;
+    color: var(--white-color) ;
+    cursor: pointer;
+    float: right;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.dropbtn {
+    background-color: white;
+    color: #1F1F1F;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    height: 23px;
+    width: 155px;
+    margin-top: 20px;
+    border: 1px solid #E0E0E0;
+    float: right;
+}
+.dropbtn-item-1{
+    background-color: white;
+    color: #1F1F1F;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    height: 23px;
+    width: 155px;
+    margin-top: 5px;
+    border: 1px solid #E0E0E0;
+    float: right;
+}
+.dropbtn-item-1:hover{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.searchButton{
+    position: absolute;
+    height: 30px;
+    top: 21px;
+    right: 58px;
+    border: none;
+    background-color: transparent;
+}
+.modal__inner-body-donvi button{
+    width: 405px;
+    height: 33px;
+    cursor: pointer;
+    background-color: var(--white-color);
+    color: #1F1F1F;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    border: 1px solid #E0E0E0;
+    float: left;
+    text-align: left;
+    border-radius: 5px;
+}
+.modal__inner-li-button-cacel{
+    float: left;
+    width: 80px;
+    height: 45px;
+    background-color: var(--white-color);
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #E0E0E0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.modal__inner-li-button-cat{
+    float: right;
+    width: 80px;
+    height: 45px;
+    background-color: var(--white-color);
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #E0E0E0;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+.modal__inner-li-button-cat-2{
+    float: right;
+    width: 125px;
+    height: 45px;
+    background-color: var(--primary-color);
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid var(--primary-color);
+    cursor: pointer;
+    color: var(--white-color);
+    border-radius: 5px;
+}
+.modal__inner-li-button{
+    margin-top: 15px;
+}

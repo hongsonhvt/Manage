@@ -1,0 +1,4 @@
+<!-- Middleware là một phần mềm hoặc một tập hợp các thành phần phần mềm nằm giữa ứng dụng và hệ điều hành hoặc giữa các thành phần trong cùng một ứng dụng. Nó đóng vai trò là một lớp trung gian, cung cấp các tính năng và chức năng bổ sung cho các ứng dụng và hệ thống.
+Middleware thường được sử dụng để giải quyết các vấn đề liên quan đến giao tiếp và tương tác giữa các thành phần trong hệ thống phần mềm. Ví dụ, trong kiến trúc dựa trên web, middleware có thể được sử dụng để xử lý yêu cầu HTTP, ghi lại nhật ký, xác thực người dùng, quản lý phiên, kiểm soát truy cập, và nhiều chức năng khác.
+
+Middleware có thể được triển khai dưới nhiều hình thức, bao gồm các thư viện, giao thức mạng, ứng dụng độc lập, và các dịch vụ web. Một số ví dụ phổ biến về middleware là Express (trong Node.js), Django Middleware (trong Django Python), và ASP.NET Middleware (trong ASP.NET). -->

@@ -1,0 +1,225 @@
+.container__table-user{
+
+    border: 1px solid #E0E0E0;
+    /* width: 842px;
+    height: 410px; */
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 24px;
+    padding-right: 24px;
+    
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+.containrt__table-detail{
+    border-collapse: collapse;
+}
+.containrt__table-detail:hover{
+    background-color: #edeef2 ;
+}
+.table_user-table{
+    margin-left: 15px;
+    margin-right: 15px;
+    overflow-y: auto;
+    overflow-x: auto;
+    height: calc(100vh - 207px - 114px);
+ 
+}
+.containrt__table-detail-1{
+    border-collapse: collapse;
+}
+.containrt__table-detail-1:hover{
+    background-color: #f8f8f8 ;
+}
+.cont-table-1{
+    width: 51px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    height: 20px;
+}
+.cont-table-2{
+    width: 120px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-3{
+    width: 170px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-4{
+    width: 90px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-5{
+    width: 110px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-6{
+    width: 160px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-7{
+    width: 180px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-8{
+    width: 173px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-9{
+    width: 140px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-10{
+    width: 160px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-11{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.cont-table-12{
+    width: 90px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+.table-1{
+    width: 20px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    height: 20px;
+    text-align: center;
+}
+.table-2{
+    width: 120px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-3{
+    width: 170px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-4{
+    width: 90px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-5{
+    width: 110px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-6{
+    width: 160px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-7{
+    width: 180px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-8{
+    width: 173px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-9{
+    width: 140px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-10{
+    width: 160px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-11{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.table-12{
+    width: 90px;
+    height: 30px;
+    border: 1px solid #E0E0E0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    
+}

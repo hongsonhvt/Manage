@@ -1,0 +1,125 @@
+.form__input-checkbox{
+    width: 20px;
+    height: 20px;
+    margin-top: 11px;
+}
+.modal__inner-title-input{
+    height: 30px;
+    width: 160px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-input:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-input-cmnd{
+    height: 30px;
+    width: 225px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-input-cmnd:focus{
+    border: 1px solid var(--primary-color);
+}
+.searchTerm{
+    height: 36px;
+    width: 230px;
+    margin-top: 15px;
+    outline: none;
+}
+.modal__inner-title-name{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-name:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-dob{
+    height: 30px;
+    width: 160px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-CD{
+    height: 30px;
+    width: 391px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-CD:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-state{
+    height: 30px;
+    width: 441px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-state:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-adress:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-phone-1:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-phone-2:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-email:focus{
+    border: 1px solid var(--primary-color);
+}
+.modal__inner-title-adress{
+    height: 30px;
+    width: 870px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-input-cmnd{
+    height: 30px;
+    width: 204px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-input-cmnd{
+
+}
+.modal__inner-title-phone-1{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-phone-2{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-email{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}
+.modal__inner-title-dcmnd{
+    height: 30px;
+    width: 210px;
+    border-radius: 3px;
+    border: 1px solid #E0E0E0;
+    outline: none;
+}

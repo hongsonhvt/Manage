@@ -1,0 +1,32 @@
+.navbar{
+    display: block;
+}
+.navbar__icon-header{
+    margin-bottom: 50px;
+    padding-top: 12px;
+}
+.navbar__icon-header-img{
+    width: 100px;
+    height: 35px;
+    float: left;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.navbar__list-menu{
+    padding-top: 5px;
+    background-color: #393a3e;
+}
+.navbar__list-menu-ul{
+    list-style-type: none;
+    padding-left: 25px;
+}
+.navbar__list-menu-li{
+    height: 30px;
+    padding-bottom: 12px;
+}
+.navbar__list-menu-title{
+    padding-left: 13px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 400;
+}
